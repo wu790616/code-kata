@@ -34,5 +34,6 @@ Record my solutions in coding practice websites
 |[Card Games](https://exercism.org/tracks/clojure/exercises/card-games)|[Clojure](https://github.com/wu790616/code-kata/blob/master/clojure/exercism/src/card_games.clj)|Lists||2023-10-18|
 |[Coordinate Transformation](https://exercism.org/tracks/clojure/exercises/coordinate-transformation)|[Clojure](https://github.com/wu790616/code-kata/blob/master/clojure/exercism/src/coordinate_transformation.clj)|Atoms, Closures||2024-05-15|
 |[Squeaky Clean](https://exercism.org/tracks/clojure/exercises/squeaky-clean)|[Clojure](https://github.com/wu790616/code-kata/blob/master/clojure/exercism/src/squeaky_clean.clj)|Chars||2024-11-17|
+|[Triangle](https://exercism.org/tracks/clojure/exercises/triangle)|[Clojure](https://github.com/wu790616/code-kata/blob/master/clojure/exercism/src/triangle.clj)|Conditionals||2025-10-12|
 ### [AOC](https://adventofcode.com/)
 - [Advent of Code 2022](https://adventofcode.com/2022): [Solutions](https://github.com/wu790616/code-kata/tree/master/clojure/aoc2022)
