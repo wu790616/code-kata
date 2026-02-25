@@ -37,3 +37,9 @@ Record my solutions in coding practice websites
 |[Triangle](https://exercism.org/tracks/clojure/exercises/triangle)|[Clojure](https://github.com/wu790616/code-kata/blob/master/clojure/exercism/src/triangle.clj)|Conditionals||2025-10-12|
 ### [AOC](https://adventofcode.com/)
 - [Advent of Code 2022](https://adventofcode.com/2022): [Solutions](https://github.com/wu790616/code-kata/tree/master/clojure/aoc2022)
+
+## Go
+### [Exercism](https://exercism.org/dashboard)
+|Title|Solution|Concept|Level|Date|
+|-----|--------|-------|-----|----|
+|[Gopher's Gorgeous Lasagna](https://exercism.org/tracks/go/exercises/lasagna)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/lasagna/lasagna.go)|Basics||2026-02-25|
