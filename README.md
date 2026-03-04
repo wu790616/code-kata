@@ -43,3 +43,4 @@ Record my solutions in coding practice websites
 |Title|Solution|Concept|Level|Date|
 |-----|--------|-------|-----|----|
 |[Gopher's Gorgeous Lasagna](https://exercism.org/tracks/go/exercises/lasagna)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/lasagna/lasagna.go)|Basics||2026-02-25|
+|[Cars Assemble](https://exercism.org/tracks/go/exercises/cars-assemble)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/cars_assemble/cars_assemble.go)|Numbers||2026-03-04|
