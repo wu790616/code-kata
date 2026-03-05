@@ -46,3 +46,4 @@ Record my solutions in coding practice websites
 |[Cars Assemble](https://exercism.org/tracks/go/exercises/cars-assemble)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/cars_assemble/cars_assemble.go)|Numbers, Arithmetic Operators||2026-03-04|
 |[Annalyn's Infiltration](https://exercism.org/tracks/go/exercises/annalyns-infiltration)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/annalyns_infiltration/annalyns_infiltration.go)|Booleans||2026-03-04|
 |[Welcome To Tech Palace!](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/welcome_to_tech_palace/welcome_to_tech_palace.go)|Strings Package, Strings||2026-03-04|
+|[Vehicle Purchase](https://exercism.org/tracks/go/exercises/vehicle-purchase)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/vehicle_purchase/vehicle_purchase.go)|Conditionals If, Comparison||2026-03-05|
