@@ -47,3 +47,4 @@ Record my solutions in coding practice websites
 |[Annalyn's Infiltration](https://exercism.org/tracks/go/exercises/annalyns-infiltration)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/annalyns_infiltration/annalyns_infiltration.go)|Booleans||2026-03-04|
 |[Welcome To Tech Palace!](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/welcome_to_tech_palace/welcome_to_tech_palace.go)|Strings Package, Strings||2026-03-04|
 |[Vehicle Purchase](https://exercism.org/tracks/go/exercises/vehicle-purchase)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/vehicle_purchase/vehicle_purchase.go)|Conditionals If, Comparison||2026-03-05|
+|[Party Robot](https://exercism.org/tracks/go/exercises/party-robot)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/party_robot/party_robot.go)|String Formatting, Packages||2026-03-05|
