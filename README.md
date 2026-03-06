@@ -48,3 +48,4 @@ Record my solutions in coding practice websites
 |[Welcome To Tech Palace!](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/welcome_to_tech_palace/welcome_to_tech_palace.go)|Strings Package, Strings||2026-03-04|
 |[Vehicle Purchase](https://exercism.org/tracks/go/exercises/vehicle-purchase)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/vehicle_purchase/vehicle_purchase.go)|Conditionals If, Comparison||2026-03-05|
 |[Party Robot](https://exercism.org/tracks/go/exercises/party-robot)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/party_robot/party_robot.go)|String Formatting, Packages||2026-03-05|
+|[Card Tricks](https://exercism.org/tracks/go/exercises/card-tricks)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/card_tricks/card_tricks.go)|Slices, Variadic Functions||2026-03-06|
