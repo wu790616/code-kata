@@ -50,3 +50,4 @@ Record my solutions in coding practice websites
 |[Party Robot](https://exercism.org/tracks/go/exercises/party-robot)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/party_robot/party_robot.go)|String Formatting, Packages||2026-03-05|
 |[Card Tricks](https://exercism.org/tracks/go/exercises/card-tricks)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/card_tricks/card_tricks.go)|Slices, Variadic Functions||2026-03-06|
 |[Raindrops](https://exercism.org/tracks/go/exercises/raindrops)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/raindrops/raindrops.go)|Basics||2026-06-23|
+|[Two Fer](https://exercism.org/tracks/go/exercises/two-fer)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/two-fer/two_fer.go)|Basics||2026-06-24|
