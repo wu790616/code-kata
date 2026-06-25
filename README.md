@@ -52,3 +52,4 @@ Record my solutions in coding practice websites
 |[Raindrops](https://exercism.org/tracks/go/exercises/raindrops)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/raindrops/raindrops.go)|Basics||2026-06-23|
 |[Two Fer](https://exercism.org/tracks/go/exercises/two-fer)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/two-fer/two_fer.go)|Basics||2026-06-24|
 |[Hamming](https://exercism.org/tracks/go/exercises/hamming)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/hamming/hamming.go)|Basics||2026-06-24|
+|[Leap](https://exercism.org/tracks/go/exercises/leap)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/leap/leap.go)|Basics||2026-06-25|
