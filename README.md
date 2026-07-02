@@ -55,3 +55,4 @@ Record my solutions in coding practice websites
 |[Leap](https://exercism.org/tracks/go/exercises/leap)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/leap/leap.go)|Basics||2026-06-25|
 |[Collatz Conjecture](https://exercism.org/tracks/go/exercises/collatz-conjecture)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/collatz-conjecture/collatz_conjecture.go)|Numbers||2026-06-29|
 |[Difference of Squares](https://exercism.org/tracks/go/exercises/difference-of-squares)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/difference-of-squares/difference_of_squares.go)|Numbers||2026-06-30|
+|[Darts](https://exercism.org/tracks/go/exercises/darts)|[Go](https://github.com/wu790616/code-kata/blob/master/go/exercism/darts/darts.go)|Arithmetic Operators||2026-07-02|
